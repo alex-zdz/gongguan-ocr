@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2025-02-21T06:07:42.407+01:00</Created>
+        <LastChange>2025-03-07T07:22:30.178+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0006_p006.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1741338609457" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_9"/>
+                <RegionRefIndexed index="1" regionRef="r_11"/>
+                <RegionRefIndexed index="2" regionRef="r_6"/>
+                <RegionRefIndexed index="3" regionRef="r_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r_9" custom="readingOrder {index:0;}">
+            <Coords points="1255,307 1393,307 1393,1295 1255,1295"/>
+            <TextLine id="l_35" custom="readingOrder {index:0;}">
+                <Coords points="1291,322 1282,1265 1312,1266 1321,322"/>
+                <Baseline points="1291,322 1282,1265"/>
+                <TextEquiv>
+                    <Unicode>雷珍蘭高根官在吧做遺囑字</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_11" custom="readingOrder {index:1;}">
+            <Coords points="256,587 1244,587 1244,2258 256,2258"/>
+            <TextLine id="l_16" custom="readingOrder {index:0;}">
+                <Coords points="471,590 458,2204 488,2204 501,590"/>
+                <Baseline points="471,590 458,2204"/>
+                <TextEquiv>
+                    <Unicode>文一付曾鄰鄉錢五百文一付張春官錢二百文一付掛沙人雷珍蘭王珠生</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_30" custom="readingOrder {index:1;}">
+                <Coords points="281,590 278,2207 308,2208 311,590"/>
+                <Baseline points="281,590 278,2207"/>
+                <TextEquiv>
+                    <Unicode>此蔀與王茂生合夥向娘仔帽老承税的一做出身之女婢春梅嗎哖</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_78" custom="readingOrder {index:2;}">
+                <Coords points="721,592 712,2207 742,2207 751,592"/>
+                <Baseline points="721,592 712,2207"/>
+                <TextEquiv>
+                    <Unicode>門錢叁千文一付高金官錢二十五文一付高蒲官錢二十五文亦住在廈</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_71" custom="readingOrder {index:3;}">
+                <Coords points="808,595 792,2210 822,2210 838,595"/>
+                <Baseline points="808,595 792,2210"/>
+                <TextEquiv>
+                    <Unicode>雙柄伴陶公令公子錢壹千文一付母親王連娘在唐山係高琅山之妻住廈</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_23" custom="readingOrder {index:4;}">
+                <Coords points="373,597 370,2207 400,2208 403,597"/>
+                <Baseline points="373,597 370,2207"/>
+                <TextEquiv>
+                    <Unicode>高潭官柳揚官各錢五百文併監光里毛蔀得利之錢俱付掛沙均分</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_9" custom="readingOrder {index:5;}">
+                <Coords points="553,597 549,2207 579,2208 583,597"/>
+                <Baseline points="553,597 549,2207"/>
+                <TextEquiv>
+                    <Unicode>務貓葛的併女婢一名唤碧桃本地人一付妻黄志娘萬蘭人錢二十五</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_42" custom="readingOrder {index:6;}">
+                <Coords points="1156,598 1137,2216 1167,2217 1186,598"/>
+                <Baseline points="1156,598 1137,2216"/>
+                <TextEquiv>
+                    <Unicode>和1787年六月廿八日晚六點鐘大南門外梁礁名日嗎知窩氏做字云 雷珍</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_64" custom="readingOrder {index:7;}">
+                <Coords points="888,598 875,2204 905,2204 918,598"/>
+                <Baseline points="888,598 875,2204"/>
+                <TextEquiv>
+                    <Unicode>寅俱是暹人惟春梅嗎哖須撫養其子候至成人或回家方準出去改適一付</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_8" custom="readingOrder {index:8;}">
+                <Coords points="632,598 632,2201 662,2201 662,598"/>
+                <Baseline points="632,598 632,2201"/>
+                <TextEquiv>
+                    <Unicode>門一付妻陳審娘錢五千文一付妻郭瑞娘厝一間在唐人監光承買亞</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_49" custom="readingOrder {index:9;}">
+                <Coords points="1063,601 1051,2213 1081,2214 1093,601"/>
+                <Baseline points="1063,601 1051,2213"/>
+                <TextEquiv>
+                    <Unicode>蘭高根官住在八茶罐言明前掛沙字俱折破不用付女婢五名出身</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_56" custom="readingOrder {index:10;}">
+                <Coords points="971,604 959,2207 989,2207 1001,604"/>
+                <Baseline points="971,604 959,2207"/>
+                <TextEquiv>
+                    <Unicode>一名唤春梅武訖人一名唤嗎哖貓厘人一名唤春桂一名唤冬菊一名唤當</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_6" custom="readingOrder {index:2;}">
+            <Coords points="1409,535 2913,535 2913,2255 1409,2255"/>
+            <TextLine id="l_75" custom="readingOrder {index:0;}">
+                <Coords points="2458,557 2421,2217 2451,2218 2488,558"/>
+                <Baseline points="2458,557 2421,2217"/>
+                <TextEquiv>
+                    <Unicode>中水米俱是他供給榮絕無措置如此辱没門面實難容聽</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_110" custom="readingOrder {index:1;}">
+                <Coords points="1875,561 1853,2187 1883,2188 1905,561"/>
+                <Baseline points="1875,561 1853,2187"/>
+                <TextEquiv>
+                    <Unicode>又諭陳普周文取曰月娘夫妻角口與汝何干此後不準汝</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_103" custom="readingOrder {index:2;}">
+                <Coords points="1979,561 1968,2195 1998,2195 2009,561"/>
+                <Baseline points="1979,561 1968,2195"/>
+                <TextEquiv>
+                    <Unicode>夫妻有時不平人皆有之何必計較勸汝兩人當依舊和好</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_96" custom="readingOrder {index:3;}">
+                <Coords points="2102,561 2083,2206 2113,2206 2132,561"/>
+                <Baseline points="2102,561 2083,2206"/>
+                <TextEquiv>
+                    <Unicode>辱氏罵不絕又氏何嘗有駡他 列臺諭陳榮洪月娘曰</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_89" custom="readingOrder {index:4;}">
+                <Coords points="2221,564 2195,2221 2225,2221 2251,565"/>
+                <Baseline points="2221,564 2195,2221"/>
+                <TextEquiv>
+                    <Unicode>之妻周文取無端駡氏順丹伏乞究問 周文取云是月娘</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_7" custom="readingOrder {index:5;}">
+                <Coords points="1779,564 1769,1433 1799,1434 1809,564"/>
+                <Baseline points="1779,564 1769,1433"/>
+                <TextEquiv>
+                    <Unicode>啟齒與及四人皆唯唯退歸</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_82" custom="readingOrder {index:6;}">
+                <Coords points="2332,576 2310,2213 2340,2214 2362,576"/>
+                <Baseline points="2332,576 2310,2213"/>
+                <TextEquiv>
+                    <Unicode>故有謂妻言汝以惡語相辱與我同住何用 洪月娘又云陳普</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_68" custom="readingOrder {index:7;}">
+                <Coords points="2563,577 2529,2217 2559,2218 2593,578"/>
+                <Baseline points="2563,577 2529,2217"/>
+                <TextEquiv>
+                    <Unicode>往外賒米一斗以為口腹之資妻在街路中高聲揚言云家</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_54" custom="readingOrder {index:8;}">
+                <Coords points="2802,589 2781,2210 2811,2210 2832,590"/>
+                <Baseline points="2802,589 2781,2210"/>
+                <TextEquiv>
+                    <Unicode>洪月娘供謂氏爲本夫終日辱駡又無分文給費仍逐氏出</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_61" custom="readingOrder {index:9;}">
+                <Coords points="2679,589 2652,2219 2682,2219 2709,590"/>
+                <Baseline points="2679,589 2652,2219"/>
+                <TextEquiv>
+                    <Unicode>門不知何故伏乞公斷 陳榮訴謂因一日家無餘米着拙妻</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_21" custom="readingOrder {index:10;}">
+                <Coords points="1517,595 1486,2229 1516,2229 1547,596"/>
+                <Baseline points="1517,595 1486,2229"/>
+                <TextEquiv>
+                    <Unicode>沙七付出身乌人裕阿年趙羅厘氏唐人郭宋哥掛沙惹蘭總共財</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_28" custom="readingOrder {index:11;}">
+                <Coords points="1427,596 1425,983 1455,983 1457,596"/>
+                <Baseline points="1427,596 1425,983"/>
+                <TextEquiv>
+                    <Unicode>物未有二千文</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_14" custom="readingOrder {index:12;}">
+                <Coords points="1603,601 1584,2219 1614,2220 1633,601"/>
+                <Baseline points="1603,601 1584,2219"/>
+                <TextEquiv>
+                    <Unicode>哖趙羅厘氏唐人郭宋哥各錢五拾文六夫妻如一有不測棄世互相掛</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:3;}">
+            <Coords points="2937,396 3231,396 3231,1287 2937,1287"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="3041,417 3037,724 3067,725 3071,417"/>
+                <Baseline points="3041,417 3037,724"/>
+                <TextEquiv>
+                    <Unicode>洪月娘叫</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_25" custom="readingOrder {index:1;}">
+                <Coords points="3035,863 3034,986 3064,987 3065,864"/>
+                <Baseline points="3035,863 3034,986"/>
+                <TextEquiv>
+                    <Unicode>伊夫</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_47" custom="readingOrder {index:2;}">
+                <Coords points="2945,999 2945,1220 2975,1220 2975,999"/>
+                <Baseline points="2945,999 2945,1220"/>
+                <TextEquiv>
+                    <Unicode>周文取</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_32" custom="readingOrder {index:3;}">
+                <Coords points="3126,1002 3126,1226 3156,1226 3156,1002"/>
+                <Baseline points="3126,1002 3126,1226"/>
+                <TextEquiv>
+                    <Unicode>陳普觀</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_40" custom="readingOrder {index:4;}">
+                <Coords points="3033,1004 3030,1223 3060,1223 3062,1004"/>
+                <Baseline points="3033,1004 3030,1223"/>
+                <TextEquiv>
+                    <Unicode>陳榮觀</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

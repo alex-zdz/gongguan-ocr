@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2025-02-21T06:07:42.007+01:00</Created>
+        <LastChange>2025-03-27T05:03:00.459+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0002_p002.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1743048328001" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_9"/>
+                <RegionRefIndexed index="1" regionRef="r_2"/>
+                <RegionRefIndexed index="2" regionRef="r_78"/>
+                <RegionRefIndexed index="3" regionRef="r_7"/>
+                <RegionRefIndexed index="4" regionRef="r_81"/>
+                <RegionRefIndexed index="5" regionRef="r_76"/>
+                <RegionRefIndexed index="6" regionRef="r_18"/>
+                <RegionRefIndexed index="7" regionRef="r_5"/>
+                <RegionRefIndexed index="8" regionRef="r_133"/>
+                <RegionRefIndexed index="9" regionRef="r_94"/>
+                <RegionRefIndexed index="10" regionRef="r"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r_9" custom="readingOrder {index:0;}">
+            <Coords points="233,435 739,432 739,2258 226,2243"/>
+            <TextLine id="l_177" custom="readingOrder {index:0;}">
+                <Coords points="314,441 328,2222 358,2222 344,441"/>
+                <Baseline points="314,441 328,2222"/>
+                <TextEquiv>
+                    <Unicode>拾柒文貳鈸懇乞從容漸還召問陳江娘曰王興廣欠汝茶錢叁拾</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_184" custom="readingOrder {index:1;}">
+                <Coords points="242,448 243,1801 273,1801 272,448"/>
+                <Baseline points="242,448 243,1801"/>
+                <TextEquiv>
+                    <Unicode>貳文貳鈸願過汝夫數内以還興廣之錢否答曰願</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_156" custom="readingOrder {index:2;}">
+                <Coords points="635,452 624,2229 654,2229 665,453"/>
+                <Baseline points="635,452 624,2229"/>
+                <TextEquiv>
+                    <Unicode>王興廣供謂鄭旺伯有欠興之錢壹百文不思措還遁迹遠去今已尋得其</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_163" custom="readingOrder {index:3;}">
+                <Coords points="529,456 525,2215 555,2215 559,456"/>
+                <Baseline points="529,456 525,2215"/>
+                <TextEquiv>
+                    <Unicode>人特引到此伏乞究追 鄭旺伯供謂旺果有欠王興廣之錢壹百文而</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_170" custom="readingOrder {index:4;}">
+                <Coords points="420,456 431,2218 461,2218 450,456"/>
+                <Baseline points="420,456 431,2218"/>
+                <TextEquiv>
+                    <Unicode>興廣有欠拙妻之茶錢叁拾貳文貳鈸願付其扣抵除外尚長來錢陸</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:1;} structure {type:page-number;}">
+            <Coords points="335,335 421,335 421,406 335,406"/>
+            <TextLine id="l_16" custom="readingOrder {index:0;}">
+                <Coords points="347,392 404,393 405,363 347,362"/>
+                <Baseline points="347,392 404,393"/>
+                <TextEquiv>
+                    <Unicode>3</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_78" custom="readingOrder {index:2;}">
+            <Coords points="749,334 885,334 885,731 749,731"/>
+            <TextLine id="l_142" custom="readingOrder {index:0;}">
+                <Coords points="775,349 771,706 801,707 805,350"/>
+                <Baseline points="775,349 771,706"/>
+                <TextEquiv>
+                    <Unicode>王興廣呌</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_7" custom="readingOrder {index:3;}">
+            <Coords points="885,258 1174,253 1154,631 1029,639 913,639"/>
+            <TextLine id="l_127" custom="readingOrder {index:0;}">
+                <Coords points="907,257 907,441 937,441 937,257"/>
+                <Baseline points="907,257 907,441"/>
+                <TextEquiv>
+                    <Unicode>陳甲</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_120" custom="readingOrder {index:1;}">
+                <Coords points="1048,273 1043,429 1073,430 1077,274"/>
+                <Baseline points="1048,273 1043,429"/>
+                <TextEquiv>
+                    <Unicode>楊甲 </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_114" custom="readingOrder {index:2;}">
+                <Coords points="989,442 988,634 1018,634 1019,442"/>
+                <Baseline points="989,442 988,634"/>
+                <TextEquiv>
+                    <Unicode>當事</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_81" custom="readingOrder {index:4;}">
+            <Coords points="759,826 881,826 881,1158 759,1158"/>
+            <TextLine id="l_149" custom="readingOrder {index:0;}">
+                <Coords points="771,847 767,1128 797,1128 801,847"/>
+                <Baseline points="771,847 767,1128"/>
+                <TextEquiv>
+                    <Unicode>鄭旺伯</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_76" custom="readingOrder {index:5;}">
+            <Coords points="950,639 1092,639 1092,2118 950,2118"/>
+            <TextLine id="l_126" custom="readingOrder {index:0;}">
+                <Coords points="976,648 971,2082 1001,2082 1006,648"/>
+                <Baseline points="976,648 971,2082"/>
+                <TextEquiv>
+                    <Unicode>當事丁十月初五日和〡〧〨〧年十一月十四日拜三</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_18" custom="readingOrder {index:6;}">
+            <Coords points="1196,466 1715,466 1715,2256 1190,2249"/>
+            <TextLine id="l_86" custom="readingOrder {index:0;}">
+                <Coords points="1409,498 1385,2227 1415,2228 1439,498"/>
+                <Baseline points="1409,498 1385,2227"/>
+                <TextEquiv>
+                    <Unicode>廣曰鄭旺伯與汝⾧短之錢俟其回歸理會可也然陳⽒之茶錢急宜</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_113" custom="readingOrder {index:1;}">
+                <Coords points="1211,500 1208,2069 1238,2069 1241,500"/>
+                <Baseline points="1211,500 1208,2069"/>
+                <TextEquiv>
+                    <Unicode>措還如尋不得旺伯臨及限期亦當清楚陳江娘⽢願⽽退</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_93" custom="readingOrder {index:2;}">
+                <Coords points="1308,502 1284,2227 1314,2228 1338,502"/>
+                <Baseline points="1308,502 1284,2227"/>
+                <TextEquiv>
+                    <Unicode>先還王興廣云茶錢實計叁拾貳⽂貳鈸乞限三禮拜尋得旺伯⾃當</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_79" custom="readingOrder {index:3;}">
+                <Coords points="1517,514 1505,2215 1535,2216 1547,514"/>
+                <Baseline points="1517,514 1505,2215"/>
+                <TextEquiv>
+                    <Unicode>⽒实不知情奈舉現炊爨無資伏乞仁慈俯憐貧苦列臺諭王興</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_72" custom="readingOrder {index:4;}">
+                <Coords points="1621,514 1613,2215 1643,2216 1651,514"/>
+                <Baseline points="1621,514 1613,2215"/>
+                <TextEquiv>
+                    <Unicode>有於理難容伏望明鑑斧斷陳江娘云拙夫與興廣有無⾧短錢</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_5" custom="readingOrder {index:7;}">
+            <Coords points="1753,493 2842,478 2842,2269 1754,2262"/>
+            <TextLine id="l_55" custom="readingOrder {index:0;}">
+                <Coords points="1774,502 1774,2227 1804,2227 1804,502"/>
+                <Baseline points="1774,502 1774,2227"/>
+                <TextEquiv>
+                    <Unicode>討茶錢無時休息今復投告公堂務欲原茶必獲使興⾎本竟屬烏</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_34" custom="readingOrder {index:1;}">
+                <Coords points="2039,510 2051,2248 2081,2247 2069,509"/>
+                <Baseline points="2039,510 2051,2248"/>
+                <TextEquiv>
+                    <Unicode>往又不⾒旺伯⾯⽬其妻與弟仍似前⾔相慰如是數次知其欲吞滅⾎</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_27" custom="readingOrder {index:2;}">
+                <Coords points="2139,510 2147,2239 2177,2239 2169,510"/>
+                <Baseline points="2139,510 2147,2239"/>
+                <TextEquiv>
+                    <Unicode>俱稱旺伯外出討賬未歸若有⾧短俟其回歸理會決不相負他⽇再</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_48" custom="readingOrder {index:3;}">
+                <Coords points="1854,514 1862,2244 1892,2243 1884,514"/>
+                <Baseline points="1854,514 1862,2244"/>
+                <TextEquiv>
+                    <Unicode>壹⽄議定價錢叁拾貳⽂貳鈸意欲俟其夫回來然後理會孰料陳⽒迫</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_41" custom="readingOrder {index:4;}">
+                <Coords points="1934,514 1951,2252 1981,2251 1964,513"/>
+                <Baseline points="1934,514 1951,2252"/>
+                <TextEquiv>
+                    <Unicode>本徒以花⾔相瞞故向其妻陳⽒買來⼀⽄箱的茶壹拾柒箱又零茶壹拾</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_15" custom="readingOrder {index:5;}">
+                <Coords points="2244,514 2264,2256 2294,2255 2274,513"/>
+                <Baseline points="2244,514 2264,2256"/>
+                <TextEquiv>
+                    <Unicode>是⽉⼗四⽇交還及期往討不⾒形迹問其妻陳江娘與弟鄭學喜⼆⼈</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_155" custom="readingOrder {index:6;}">
+                <Coords points="2744,517 2747,2239 2777,2239 2774,517"/>
+                <Baseline points="2744,517 2747,2239"/>
+                <TextEquiv>
+                    <Unicode>陳江娘供謂⽒因本夫出船别往⽒獨守店有王興廣向⽒買去茶貳⼤</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_45" custom="readingOrder {index:7;}">
+                <Coords points="2450,521 2466,2244 2496,2244 2480,521"/>
+                <Baseline points="2450,521 2466,2244"/>
+                <TextEquiv>
+                    <Unicode>錢既回⽽茶⾄今不肯交還伏乞嚴究召問鄭開所供與江娘相同王</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_52" custom="readingOrder {index:8;}">
+                <Coords points="2347,521 2363,2247 2393,2247 2377,521"/>
+                <Baseline points="2347,521 2363,2247"/>
+                <TextEquiv>
+                    <Unicode>興廣供謂鄭旺伯前⼋⽉初⼗⽇⾯會結⽋去湊會之錢壹百⽂⼤鈁約</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_38" custom="readingOrder {index:9;}">
+                <Coords points="2546,524 2563,2241 2593,2240 2576,524"/>
+                <Baseline points="2546,524 2563,2241"/>
+                <TextEquiv>
+                    <Unicode>他欲會議價錢叁拾貳⽂貳鈸⽒不肯許即取回去定錢壹拾貳⽂貳鈸定</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_26" custom="readingOrder {index:10;}">
+                <Coords points="2639,528 2649,2244 2679,2244 2669,528"/>
+                <Baseline points="2639,528 2649,2244"/>
+                <TextEquiv>
+                    <Unicode>箱又壹拾柒⼩箱議價錢四拾⽂即來定錢壹拾貳⽂貳鈸誰疑去茶以後</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_133" custom="readingOrder {index:8;}">
+            <Coords points="2868,369 2992,369 2988,764 2864,768"/>
+            <TextLine id="l_141" custom="readingOrder {index:0;}">
+                <Coords points="2878,380 2880,728 2910,728 2908,380"/>
+                <Baseline points="2878,380 2880,728"/>
+                <TextEquiv>
+                    <Unicode>陳江娘呌 </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_94" custom="readingOrder {index:9;}">
+            <Coords points="2866,900 2990,900 2990,1205 2866,1205"/>
+            <TextLine id="l_148" custom="readingOrder {index:0;}">
+                <Coords points="2878,915 2878,1180 2908,1180 2908,915"/>
+                <Baseline points="2878,915 2878,1180"/>
+                <TextEquiv>
+                    <Unicode>王興廣</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:10;}">
+            <Coords points="3026,508 3271,508 3271,2256 3026,2256"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="3201,529 3195,1545 3191,1548 3213,1570 3222,1557 3231,529"/>
+                <Baseline points="3201,529 3195,1545 3191,1548"/>
+                <TextEquiv>
+                    <Unicode>⼆⽐供，詳前期九⽉⼗四⽬兹陳情不容</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_57" custom="readingOrder {index:1;}">
+                <Coords points="3110,529 3100,2192 3130,2192 3140,529"/>
+                <Baseline points="3110,529 3100,2192"/>
+                <TextEquiv>
+                    <Unicode>來再禀陳天⾬乞限每⽉還錢壹拾⽂，漸漸湊⾜其⽋項⽽後已陳</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_91" custom="readingOrder {index:2;}">
+                <Coords points="3032,535 3032,729 3062,729 3062,535"/>
+                <Baseline points="3032,535 3032,729"/>
+                <TextEquiv>
+                    <Unicode>情甘願</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

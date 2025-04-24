@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2025-04-10T12:05:01.313+02:00</Created>
+        <LastChange>2025-04-14T10:50:26.584+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0002_p002.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1744684941953" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_3"/>
+                <RegionRefIndexed index="2" regionRef="r_121"/>
+                <RegionRefIndexed index="3" regionRef="r_118"/>
+                <RegionRefIndexed index="4" regionRef="r_115"/>
+                <RegionRefIndexed index="5" regionRef="r_111"/>
+                <RegionRefIndexed index="6" regionRef="r_109"/>
+                <RegionRefIndexed index="7" regionRef="r_108"/>
+                <RegionRefIndexed index="8" regionRef="r_122"/>
+                <RegionRefIndexed index="9" regionRef="r_119"/>
+                <RegionRefIndexed index="10" regionRef="r_116"/>
+                <RegionRefIndexed index="11" regionRef="r_124"/>
+                <RegionRefIndexed index="12" regionRef="r_123"/>
+                <RegionRefIndexed index="13" regionRef="r_120"/>
+                <RegionRefIndexed index="14" regionRef="r_117"/>
+                <RegionRefIndexed index="15" regionRef="r_112"/>
+                <RegionRefIndexed index="16" regionRef="r_110"/>
+                <RegionRefIndexed index="17" regionRef="r_114"/>
+                <RegionRefIndexed index="18" regionRef="r_49"/>
+                <RegionRefIndexed index="19" regionRef="r_19"/>
+                <RegionRefIndexed index="20" regionRef="r_21"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="3039,348 3131,348 3131,424 3039,424"/>
+            <TextLine id="l_8" custom="readingOrder {index:0;}">
+                <Coords points="3049,399 3113,398 3113,368 3048,369"/>
+                <Baseline points="3049,399 3113,398"/>
+                <TextEquiv>
+                    <Unicode>44</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_3" custom="readingOrder {index:1;}">
+            <Coords points="3117,502 3148,390 3254,390 3254,877 3108,878"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="3164,400 3147,855 3177,857 3194,401"/>
+                <Baseline points="3164,400 3147,855"/>
+                <TextEquiv>
+                    <Unicode>廖新娘呌</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_121" custom="readingOrder {index:2;}">
+            <Coords points="545,348 703,348 703,733 545,733"/>
+            <TextLine id="l_245" custom="readingOrder {index:0;}">
+                <Coords points="579,359 581,698 611,697 609,359"/>
+                <Baseline points="579,359 581,698"/>
+                <TextEquiv>
+                    <Unicode>王水娘呌</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_118" custom="readingOrder {index:3;}">
+            <Coords points="723,358 986,358 986,798 723,798"/>
+            <TextLine id="l_206" custom="readingOrder {index:0;}">
+                <Coords points="859,367 853,671 883,672 889,368"/>
+                <Baseline points="859,367 853,671"/>
+                <TextEquiv>
+                    <Unicode>廖新娘</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_213" custom="readingOrder {index:1;}">
+                <Coords points="734,367 745,667 775,666 764,366"/>
+                <Baseline points="734,367 745,667"/>
+                <TextEquiv>
+                    <Unicode>董標貴</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_220" custom="readingOrder {index:2;}">
+                <Coords points="806,673 804,773 834,774 836,674"/>
+                <Baseline points="806,673 804,773"/>
+                <TextEquiv>
+                    <Unicode>呌</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_115" custom="readingOrder {index:4;}">
+            <Coords points="1022,341 1153,341 1153,765 1026,767"/>
+            <TextLine id="l_185" custom="readingOrder {index:0;}">
+                <Coords points="1044,355 1049,747 1079,746 1074,355"/>
+                <Baseline points="1044,355 1049,747"/>
+                <TextEquiv>
+                    <Unicode>黃會覌呌</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_111" custom="readingOrder {index:5;}">
+            <Coords points="1211,340 1326,340 1326,737 1211,737"/>
+            <TextLine id="l_121" custom="readingOrder {index:0;}">
+                <Coords points="1235,342 1238,717 1268,717 1265,342"/>
+                <Baseline points="1235,342 1238,717"/>
+                <TextEquiv>
+                    <Unicode>謝晚覌呌</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_109" custom="readingOrder {index:6;}">
+            <Coords points="1365,251 1591,251 1591,634 1365,634"/>
+            <TextLine id="l_74" custom="readingOrder {index:0;}">
+                <Coords points="1392,263 1386,469 1416,470 1422,264"/>
+                <Baseline points="1392,263 1386,469"/>
+                <TextEquiv>
+                    <Unicode>林甲</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_67" custom="readingOrder {index:1;}">
+                <Coords points="1508,263 1508,448 1538,448 1538,263"/>
+                <Baseline points="1508,263 1508,448"/>
+                <TextEquiv>
+                    <Unicode>黃甲</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_81" custom="readingOrder {index:2;}">
+                <Coords points="1460,442 1458,606 1487,607 1490,443"/>
+                <Baseline points="1460,442 1458,606"/>
+                <TextEquiv>
+                    <Unicode>當事</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_108" custom="readingOrder {index:7;}">
+            <Coords points="1624,600 1722,600 1722,1059 1624,1059"/>
+            <TextLine id="l_60" custom="readingOrder {index:0;}">
+                <Coords points="1646,603 1640,1045 1670,1046 1676,604"/>
+                <Baseline points="1646,603 1640,1045"/>
+                <TextEquiv>
+                    <Unicode>囬報甲大知悉</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_122" custom="readingOrder {index:8;}">
+            <Coords points="568,894 703,894 703,1212 568,1212"/>
+            <TextLine id="l_253" custom="readingOrder {index:0;}">
+                <Coords points="599,900 601,1196 631,1196 629,900"/>
+                <Baseline points="599,900 601,1196"/>
+                <TextEquiv>
+                    <Unicode>馮印覌</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_119" custom="readingOrder {index:9;}">
+            <Coords points="752,880 897,880 897,1212 752,1212"/>
+            <TextLine id="l_228" custom="readingOrder {index:0;}">
+                <Coords points="787,891 779,1193 809,1194 817,892"/>
+                <Baseline points="787,891 779,1193"/>
+                <TextEquiv>
+                    <Unicode>董祖韻</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_116" custom="readingOrder {index:10;}">
+            <Coords points="1015,874 1160,874 1160,1186 1015,1186"/>
+            <TextLine id="l_192" custom="readingOrder {index:0;}">
+                <Coords points="1049,881 1049,1173 1079,1173 1079,881"/>
+                <Baseline points="1049,881 1049,1173"/>
+                <TextEquiv>
+                    <Unicode>李六覌</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_124" custom="readingOrder {index:11;}">
+            <Coords points="260,618 532,618 562,2221 260,2221"/>
+            <TextLine id="l_274" custom="readingOrder {index:0;}">
+                <Coords points="355,624 375,2204 405,2204 385,624"/>
+                <Baseline points="355,624 375,2204"/>
+                <TextEquiv>
+                    <Unicode>氏因與夫不睦被其毆打打畢則將其男不言而去後又遣人</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_281" custom="readingOrder {index:1;}">
+                <Coords points="276,624 279,2214 309,2214 306,624"/>
+                <Baseline points="276,624 279,2214"/>
+                <TextEquiv>
+                    <Unicode>盗引其女而去遗氏煢煢孑立已六個月询問至今茫無消息</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_267" custom="readingOrder {index:2;}">
+                <Coords points="450,628 473,2208 503,2207 480,627"/>
+                <Baseline points="450,628 473,2208"/>
+                <TextEquiv>
+                    <Unicode>王水娘供谓氏與本夫馮印生有一男一女男年十歲女八歲</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_123" custom="readingOrder {index:12;}">
+            <Coords points="621,1232 716,1232 716,1370 621,1370"/>
+            <TextLine id="l_260" custom="readingOrder {index:0;}">
+                <Coords points="642,1241 644,1349 674,1348 672,1240"/>
+                <Baseline points="642,1241 644,1349"/>
+                <TextEquiv>
+                    <Unicode>不到</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_120" custom="readingOrder {index:13;}">
+            <Coords points="815,1222 923,1222 923,1393 815,1393"/>
+            <TextLine id="l_238" custom="readingOrder {index:0;}">
+                <Coords points="830,1232 834,1377 864,1376 860,1231"/>
+                <Baseline points="830,1232 834,1377"/>
+                <TextEquiv>
+                    <Unicode>不到</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_117" custom="readingOrder {index:14;}">
+            <Coords points="1064,1216 1166,1216 1166,1485 1064,1485"/>
+            <TextLine id="l_199" custom="readingOrder {index:0;}">
+                <Coords points="1089,1226 1087,1459 1117,1459 1119,1226"/>
+                <Baseline points="1089,1226 1087,1459"/>
+                <TextEquiv>
+                    <Unicode>上山不到</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_112" custom="readingOrder {index:15;}">
+            <Coords points="1220,887 1329,887 1329,1194 1220,1194"/>
+            <TextLine id="l_128" custom="readingOrder {index:0;}">
+                <Coords points="1235,891 1233,1178 1263,1179 1265,891"/>
+                <Baseline points="1235,891 1233,1178"/>
+                <TextEquiv>
+                    <Unicode>陳是覌</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_110" custom="readingOrder {index:16;}">
+            <Coords points="1442,637 1557,637 1557,2080 1442,2080"/>
+            <TextLine id="l_114" custom="readingOrder {index:0;}">
+                <Coords points="1461,638 1458,2066 1488,2066 1491,638"/>
+                <Baseline points="1461,638 1458,2066"/>
+                <TextEquiv>
+                    <Unicode>戊二月十九日和 年三月廿六日拜三</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_114" custom="readingOrder {index:17;}">
+            <Coords points="1190,1524 1199,1215 1270,1208 1353,1222 1353,2219 1202,2219"/>
+            <TextLine id="l_162" custom="readingOrder {index:0;}">
+                <Coords points="1209,1222 1210,1595 1240,1595 1239,1222"/>
+                <Baseline points="1209,1222 1210,1595"/>
+                <TextEquiv>
+                    <Unicode>寄在内淡囚内</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_135" custom="readingOrder {index:1;}">
+                <Coords points="1271,1227 1273,2202 1303,2202 1301,1227"/>
+                <Baseline points="1271,1227 1273,2202"/>
+                <TextEquiv>
+                    <Unicode>三期不到请伽頭之令命達氏捉陳是</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_49" custom="readingOrder {index:18;}">
+            <Coords points="1825,612 3078,614 3019,1782 3025,1888 3022,2089 3029,2262 1825,2262"/>
+            <TextLine id="l_53" custom="readingOrder {index:0;}">
+                <Coords points="1837,618 1846,2216 1876,2216 1867,618"/>
+                <Baseline points="1837,618 1846,2216"/>
+                <TextEquiv>
+                    <Unicode>尋董標貴携至美色甘干多欲爲究問諸葛礁將其所囑</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_39" custom="readingOrder {index:1;}">
+                <Coords points="2007,630 2001,2225 2031,2225 2037,630"/>
+                <Baseline points="2007,630 2001,2225"/>
+                <TextEquiv>
+                    <Unicode>美色甘朱押號即將字携往唐人美色甘朱處付其查閲</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_46" custom="readingOrder {index:2;}">
+                <Coords points="1923,630 1914,2219 1944,2219 1953,630"/>
+                <Baseline points="1923,630 1914,2219"/>
+                <TextEquiv>
+                    <Unicode>並請其詳美色甘朱覽畢將字留住仍囑求甲大遣人</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_24" custom="readingOrder {index:3;}">
+                <Coords points="2176,636 2161,2226 2191,2226 2206,636"/>
+                <Baseline points="2176,636 2161,2226"/>
+                <TextEquiv>
+                    <Unicode>在吧二男一分遺吧妻兹遺業既無的栖須執掛沙㘃难董標貴</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_32" custom="readingOrder {index:4;}">
+                <Coords points="2088,636 2085,2231 2115,2231 2118,636"/>
+                <Baseline points="2088,636 2085,2231"/>
+                <TextEquiv>
+                    <Unicode>並唐山子董祖韻諸葛礁承命回報甲大知情因其掛沙字有</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_7" custom="readingOrder {index:5;}">
+                <Coords points="2363,647 2335,2233 2365,2234 2393,647"/>
+                <Baseline points="2363,647 2335,2233"/>
+                <TextEquiv>
+                    <Unicode>將其掛沙字奉交伽頭双柄時迷力查阅併將前後期之口供逐</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_55" custom="readingOrder {index:6;}">
+                <Coords points="2996,650 2960,2250 2990,2251 3026,651"/>
+                <Baseline points="2996,650 2960,2250"/>
+                <TextEquiv>
+                    <Unicode>廖新娘供詳前期二月初五日召問董祖韵有向汝母取去</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_69" custom="readingOrder {index:7;}">
+                <Coords points="2812,650 2779,2237 2809,2238 2842,651"/>
+                <Baseline points="2812,650 2779,2237"/>
+                <TextEquiv>
+                    <Unicode>囑字作六分均分在唐三分在吧三分後爲財業分不平掛沙</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_14" custom="readingOrder {index:8;}">
+                <Coords points="2259,650 2244,2226 2274,2226 2289,651"/>
+                <Baseline points="2259,650 2244,2226"/>
+                <TextEquiv>
+                    <Unicode>一讀聞伽頭云遺囑字中作三分均分一分遺唐山三男一分遺</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_97" custom="readingOrder {index:9;}">
+                <Coords points="2457,654 2425,2231 2455,2231 2487,654"/>
+                <Baseline points="2457,654 2425,2231"/>
+                <TextEquiv>
+                    <Unicode>父掛沙字何在祖韵即將掛沙字呈览至下午四點鐘诸葛礁</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_90" custom="readingOrder {index:10;}">
+                <Coords points="2536,654 2507,2244 2537,2244 2566,654"/>
+                <Baseline points="2536,654 2507,2244"/>
+                <TextEquiv>
+                    <Unicode>初故何無的栖遺業答曰为病纏身是以未暇及也又問祖韵曰汝</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_62" custom="readingOrder {index:11;}">
+                <Coords points="2898,657 2868,2247 2898,2248 2928,658"/>
+                <Baseline points="2898,657 2868,2247"/>
+                <TextEquiv>
+                    <Unicode>錢叁百五拾文並搬取家内物器否答曰有因先父棄世做遺</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_76" custom="readingOrder {index:12;}">
+                <Coords points="2720,660 2691,2244 2721,2244 2750,661"/>
+                <Baseline points="2720,660 2691,2244"/>
+                <TextEquiv>
+                    <Unicode>人不肯的棲是以搬取物件問廖新娘曰祖韵所取是何物件</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_83" custom="readingOrder {index:13;}">
+                <Coords points="2638,660 2609,2247 2639,2248 2668,661"/>
+                <Baseline points="2638,660 2609,2247"/>
+                <TextEquiv>
+                    <Unicode>答曰盡皆取去連一個貓兒亦被取去靡有孑遺又問新娘丈夫</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_19" custom="readingOrder {index:19;}">
+            <Coords points="3113,1091 3227,1091 3227,1410 3113,1410"/>
+            <TextLine id="l_13" custom="readingOrder {index:0;}">
+                <Coords points="3133,1103 3135,1398 3165,1398 3163,1103"/>
+                <Baseline points="3133,1103 3135,1398"/>
+                <TextEquiv>
+                    <Unicode>董祖韻</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_21" custom="readingOrder {index:20;}">
+            <Coords points="3030,1898 3032,1835 3029,1749 3055,1564 3250,1564 3250,2028 3031,2033"/>
+            <TextLine id="l_20" custom="readingOrder {index:0;}">
+                <Coords points="3230,1662 3065,1662 3065,1692 3230,1692"/>
+                <Baseline points="3230,1662 3065,1662"/>
+                <TextEquiv>
+                    <Unicode>削視</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_27" custom="readingOrder {index:1;}">
+                <Coords points="3196,1725 3091,1725 3091,1755 3196,1755"/>
+                <Baseline points="3196,1725 3091,1725"/>
+                <TextEquiv>
+                    <Unicode>人</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_48" custom="readingOrder {index:2;}">
+                <Coords points="3039,1751 3042,1995 3072,1994 3069,1750"/>
+                <Baseline points="3039,1751 3042,1995"/>
+                <TextEquiv>
+                    <Unicode>胡玉蘭</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_34" custom="readingOrder {index:3;}">
+                <Coords points="3177,1752 3177,1994 3207,1994 3207,1752"/>
+                <Baseline points="3177,1752 3177,1994"/>
+                <TextEquiv>
+                    <Unicode>董標貴</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_41" custom="readingOrder {index:4;}">
+                <Coords points="3106,1766 3105,1916 3135,1917 3136,1766"/>
+                <Baseline points="3106,1766 3105,1916"/>
+                <TextEquiv>
+                    <Unicode>賴淵</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
